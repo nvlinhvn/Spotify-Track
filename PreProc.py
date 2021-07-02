@@ -236,4 +236,4 @@ class PreProc(object):
             plt.axis('off')
             plt.title(f'Important Words in {column}')
             plt.show()
-
+        return
